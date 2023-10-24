@@ -12,7 +12,7 @@
     | |  | | | | | | |  __/ | (_| | |_) | |  __/\  /  | |  __/\ V  V /  __/ |
     |_|  |_|_| |_| |_|\___|_|\__,_|_.__/|_|\___| \/   |_|\___| \_/\_/ \___|_|
 
-Enter the folder path with (.csv) files: /Users/sahnawaz/PycharmProjects/algorithms_and_data_structures_cw/dataset
+Enter the folder path with (.csv) files: dataset
 
 Files are successfully loaded, proceeding further.
 
