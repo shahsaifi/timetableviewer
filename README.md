@@ -1,7 +1,7 @@
 ### Algorithms and Data Structures Coursework
 
 ```bash
-python3 main.py
+➜ python3 main.py
 
   Welcome to
 
